@@ -1,2 +1,2 @@
 # Neural_net
-Basic neural network code used during practice
+NLP course work practice at LMU
